@@ -1,0 +1,48 @@
+body {
+    background-color: #72a3a8;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#bg {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+}
+
+#bg img {
+    margin: auto;
+    min-width: 35%;
+    min-height: 35%;
+}
+
+.intro {
+    color: #ffffff;
+}
+
+.social {
+    color: #507d82;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+.social a {
+    background-color: transparent;
+    display: inline-block;
+    border-radius: 50%;
+    border: 2px solid #507d82;
+    margin: 3px;
+    width: 60px;
+    color: #507d82;
+    height: 60px;
+    padding: 12px;
+    font-size: 30px;
+}
+
+.social a:hover, .social a:focus {
+    border-color: #ffffff;
+    color: #ffffff;
+}
