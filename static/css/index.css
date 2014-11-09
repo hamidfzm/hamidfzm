@@ -7,16 +7,10 @@ body {
 }
 
 #bg {
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 80%;
-}
-
-#bg img {
+    padding-top: 30px;
     margin: auto;
-    min-width: 35%;
-    min-height: 35%;
+    width: 100%;
+    height: auto;
 }
 
 .intro {
