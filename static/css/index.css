@@ -41,25 +41,27 @@ body {
 
 .intro h1 {
     font-family: "Alte DIN 1451 Mittelschrift", Tahoma, Geneva, sans-serif;
-    font-size: 45px;
+    font-size: 50px;
+    text-wrap: none;
     margin: 0;
+    letter-spacing: 6px;
 }
 
 .intro h3 {
     font-family: "Fira Sans Light", Tahoma, Geneva, sans-serif;
     font-size: 20px;
     margin-top: 0;
+    letter-spacing: 1px;
 }
 
 .social {
     color: #507d82;
-    font-size: 12px;
+    font-size: 9px;
     vertical-align: middle;
 }
 
-.social span {
+.social span.fa-circle {
     vertical-align: middle;
-    margin-bottom: 23px;
 }
 
 .social a {
@@ -68,11 +70,18 @@ body {
     border-radius: 50%;
     border: 2px solid #507d82;
     margin: 3px;
-    width: 60px;
+    width: 40px;
     color: #507d82;
-    height: 60px;
-    padding: 12px;
+    height: 40px;
+    vertical-align: middle;
     font-size: 30px;
+    font-weight: 400;
+}
+
+.social a > span {
+    vertical-align: middle;
+    padding-bottom: 13px;
+
 }
 
 .social a:hover, .social a:focus {
