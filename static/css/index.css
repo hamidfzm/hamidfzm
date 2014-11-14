@@ -22,13 +22,12 @@
 body {
     background-color: #72a3a8;
     margin: 0;
-    padding: 0;
+    padding: 80px 0 20px 0;
     text-align: center;
     font-family: Tahoma, Geneva, sans-serif;
 }
 
 #bg {
-    padding-top: 30px;
     margin: auto;
     width: 100%;
     height: auto;
@@ -60,8 +59,13 @@ body {
     vertical-align: middle;
 }
 
+.comma {
+    color: #4a797f;
+}
+
 .social span.fa-circle {
     vertical-align: middle;
+    color: #5d8c92;
 }
 
 .social a {
@@ -74,13 +78,13 @@ body {
     color: #507d82;
     height: 40px;
     vertical-align: middle;
-    font-size: 30px;
+    font-size: 23px;
     font-weight: 400;
 }
 
 .social a > span {
     vertical-align: middle;
-    padding-bottom: 13px;
+    padding-bottom: 3px;
 
 }
 
