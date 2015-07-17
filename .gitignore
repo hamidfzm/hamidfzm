@@ -45,8 +45,9 @@ venv/
 env/
 
 # pycharm
-.idea*
 .idea/
 
 # vim
 *.swp
+
+reload
