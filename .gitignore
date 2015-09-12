@@ -51,3 +51,4 @@ env/
 *.swp
 
 reload
+.DS_Store
