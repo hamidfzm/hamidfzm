@@ -1,4 +1,6 @@
-hamidfzm.ir
-=====
+Hamid FzM
+=========
 
-Hamid FzM personal website source code: http://www.hamidfzm.ir/
+Web Developer, Python, Go
+
+https://hamidfzm.ir/
