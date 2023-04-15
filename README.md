@@ -4,4 +4,5 @@ Hamid FzM
 
 Web Developer, Python, Go
 
+https://hamidfzm.com/
 https://hamidfzm.ir/
