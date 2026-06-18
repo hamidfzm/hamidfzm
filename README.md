@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="Open to opportunities" src="https://img.shields.io/badge/status-open%20to%20opportunities-22c55e?style=flat-square">
+  <a href="https://alienintellect.ai/"><img alt="Currently at Alien Intellect" src="https://img.shields.io/badge/currently-%40Alien%20Intellect-22c55e?style=flat-square"></a>
   <a href="https://hamidfzm.com"><img alt="Website" src="https://img.shields.io/badge/site-hamidfzm.com-0ea5e9?style=flat-square"></a>
   <a href="https://blog.hamidfzm.com/"><img alt="Blog" src="https://img.shields.io/badge/blog-blog.hamidfzm.com-8b5cf6?style=flat-square"></a>
   <a href="mailto:contact@hamidfzm.com"><img alt="Email" src="https://img.shields.io/badge/email-contact%40hamidfzm.com-ef4444?style=flat-square"></a>
