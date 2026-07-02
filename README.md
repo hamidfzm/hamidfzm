@@ -41,9 +41,6 @@
 <p align="center">
   <img alt="GitHub metrics" src="./github-metrics.svg">
 </p>
-<p align="center">
-  <img alt="Coding habits" src="./github-metrics-habits.svg">
-</p>
 
 ### Find me elsewhere
 
